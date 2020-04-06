@@ -1,0 +1,17 @@
+{
+	"version": "1.0",
+	"encoding": "UTF-8",
+	"feed": {
+		"id": {
+			"$t": "test@gmail.com"
+		},
+		"entry": [{
+			"id": {
+				"$t": "http://www.google.com/m8/feeds/contacts/test%40gmail.com/base/59f1b0350bf32e42"
+			},
+			"gd$email": [{
+
+			}]
+		}]
+	}
+}
